@@ -1,0 +1,5 @@
+oreGen:
+  ores:
+    'stone': 5
+    'wool': 5
+    '1:2': 10

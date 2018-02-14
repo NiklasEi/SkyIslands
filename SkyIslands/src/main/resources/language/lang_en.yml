@@ -1,0 +1,5 @@
+# use & for colors
+#   placeholders will be listed in front of the messages
+
+others:
+  protection: " &4You cannot do that here!"

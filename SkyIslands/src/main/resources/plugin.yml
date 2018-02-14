@@ -1,0 +1,12 @@
+name: SkyIslands
+author: Nikl
+main: me.nikl.skyislands.SkyIslands
+version: 0.0.1
+website: nikl.me
+
+
+commands:
+  skyisland:
+    description: main command
+    usage: /skyisland [help]
+    aliases: [is, islands]
